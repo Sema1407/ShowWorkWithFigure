@@ -1,0 +1,16 @@
+D:\C#\work\SquareFigureTest\TestFigures\TestFigures\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\C#\work\SquareFigureTest\TestFigures\TestFigures\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\C#\work\SquareFigureTest\TestFigures\TestFigures\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\C#\work\SquareFigureTest\TestFigures\TestFigures\bin\Debug\TestFigures.dll
+D:\C#\work\SquareFigureTest\TestFigures\TestFigures\bin\Debug\TestFigures.pdb
+D:\C#\work\SquareFigureTest\TestFigures\TestFigures\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\C#\work\SquareFigureTest\TestFigures\TestFigures\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\C#\work\SquareFigureTest\TestFigures\TestFigures\bin\Debug\SquareFigure.dll
+D:\C#\work\SquareFigureTest\TestFigures\TestFigures\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\C#\work\SquareFigureTest\TestFigures\TestFigures\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\C#\work\SquareFigureTest\TestFigures\TestFigures\bin\Debug\SquareFigure.pdb
+D:\C#\work\SquareFigureTest\TestFigures\TestFigures\obj\Debug\FiguresTest.csprojAssemblyReference.cache
+D:\C#\work\SquareFigureTest\TestFigures\TestFigures\obj\Debug\FiguresTest.csproj.CoreCompileInputs.cache
+D:\C#\work\SquareFigureTest\TestFigures\TestFigures\obj\Debug\FiguresTest.csproj.CopyComplete
+D:\C#\work\SquareFigureTest\TestFigures\TestFigures\obj\Debug\TestFigures.dll
+D:\C#\work\SquareFigureTest\TestFigures\TestFigures\obj\Debug\TestFigures.pdb

@@ -1,0 +1,6 @@
+D:\C#\work\SquareFigure\SquareFigure\SquareFigure\bin\Debug\SquareFigure.dll
+D:\C#\work\SquareFigure\SquareFigure\SquareFigure\bin\Debug\SquareFigure.pdb
+D:\C#\work\SquareFigure\SquareFigure\SquareFigure\obj\Debug\SquareFigure.csprojAssemblyReference.cache
+D:\C#\work\SquareFigure\SquareFigure\SquareFigure\obj\Debug\SquareFigure.csproj.CoreCompileInputs.cache
+D:\C#\work\SquareFigure\SquareFigure\SquareFigure\obj\Debug\SquareFigure.dll
+D:\C#\work\SquareFigure\SquareFigure\SquareFigure\obj\Debug\SquareFigure.pdb
